@@ -6,13 +6,13 @@
 Contact Details : Varun M - +91 7795950319
 
 Session-1 Start Time
-January 13th 2022 04:30 am
+January 13th 2022 04:30 am (Jan-13 [THU] 03:00 PM IST)
 Session-1 End Time
-January 13th 2022 07:30 am
+January 13th 2022 07:30 am (Jan-13 [THU] 06:00 PM IST)
 Session-2 Start Time
-January 14th 2022 04:30 am
+January 14th 2022 04:30 am (Jan-14 [FRI] 03:00 PM IST)
 Session-2 End Time
-January 14th 2022 07:30 am
+January 14th 2022 07:30 am (Jan-14 [FRI] 06:00 PM IST)
 
 
 # Artificial Intelligence and Reinforcement Learning
@@ -20,13 +20,13 @@ January 14th 2022 07:30 am
 Contact Details : Sreeraj R - +91 9207442707
 
 Session 1 - Starting Time
-January 15th 2022 02:30 am
+January 15th 2022 02:30 am (Jan-15 [SAT] 01:00 PM IST)
 Session 1 - Ending Time
-January 15th 2022 05:30 am
+January 15th 2022 05:30 am (Jan-15 [SAT] 04:00 PM IST)
 Session 2 - Starting Time
-January 16th 2022 02:30 am
+January 16th 2022 02:30 am (Jan-16 [SUN] 01:00 PM IST)
 Session 2 - Ending Time
-January 16th 2022 05:30 am
+January 16th 2022 05:30 am (Jan-16 [SUN] 04:00 PM IST)
 
 
 # Zero to Hero in Computer Vision
@@ -34,12 +34,12 @@ January 16th 2022 05:30 am
 Contact Details : Vasanthakumar G - +91 9360029114
 
 Session 1 - Starting Time
-January 15th 2022 05:30 am
+January 15th 2022 05:30 am (Jan-15 [SAT] 04:00 PM IST)
 Session 1 - Ending Time
-January 15th 2022 08:30 am
+January 15th 2022 08:30 am (Jan-15 [SAT] 07:00 PM IST)
 Session 2 - Starting Time
-January 15th 2022 10:30 pm
+January 15th 2022 10:30 pm (Jan-16 [SUN] 09:00 AM IST)
 Session 2 - Ending Time
-January 16th 2022 01:30 am
+January 16th 2022 01:30 am (Jan-16 [SUN] 12:00 PM IST)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
